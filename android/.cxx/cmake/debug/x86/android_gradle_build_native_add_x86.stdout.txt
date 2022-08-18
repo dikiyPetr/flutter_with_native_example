@@ -1,0 +1,2 @@
+ninja: Entering directory `/Users/n-yako/Documents/power_point/flutter_with_native/projects/flutter_with_native_example/android/.cxx/cmake/debug/x86'
+ninja: no work to do.

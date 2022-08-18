@@ -1,0 +1,7 @@
+Executable : /Users/n-yako/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/Users/n-yako/Documents/power_point/flutter_with_native/projects/flutter_with_native_example/android/.cxx/cmake/debug/x86
+native_add
+jvmArgs : 
+

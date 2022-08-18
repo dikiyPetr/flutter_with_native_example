@@ -1,0 +1,43 @@
+{
+  "stringTable": {
+    "0": "/Users/n-yako/Documents/power_point/flutter_with_native/projects/flutter_with_native_example/android/.cxx/cmake/debug/x86",
+    "1": "--target=i686-none-linux-android16 --gcc-toolchain=/Users/n-yako/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/n-yako/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dnative_add_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "/Users/n-yako/Documents/power_point/flutter_with_native/projects/flutter_with_native_example/android/CMakeLists.txt",
+    "/Users/n-yako/Library/Android/sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake",
+    "/Users/n-yako/Library/Android/sdk/ndk/21.1.6352462/build/cmake/platforms.cmake"
+  ],
+  "cleanCommands": [
+    "/Users/n-yako/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/n-yako/Documents/power_point/flutter_with_native/projects/flutter_with_native_example/android/.cxx/cmake/debug/x86\" clean"
+  ],
+  "buildTargetsCommand": "/Users/n-yako/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/n-yako/Documents/power_point/flutter_with_native/projects/flutter_with_native_example/android/.cxx/cmake/debug/x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "native_add-Debug-x86": {
+      "buildCommand": "/Users/n-yako/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/n-yako/Documents/power_point/flutter_with_native/projects/flutter_with_native_example/android/.cxx/cmake/debug/x86\" native_add",
+      "buildType": "debug",
+      "toolchain": "4110704614",
+      "abi": "x86",
+      "artifactName": "native_add",
+      "files": [
+        {
+          "src": "/Users/n-yako/Documents/power_point/flutter_with_native/projects/flutter_with_native_example/android/native_add.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/Users/n-yako/Documents/power_point/flutter_with_native/projects/flutter_with_native_example/example/build/flutter_with_native_example/intermediates/cmake/debug/obj/x86/libnative_add.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "4110704614": {
+      "cppCompilerExecutable": "/Users/n-yako/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

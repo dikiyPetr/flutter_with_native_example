@@ -1,0 +1,3 @@
+ninja: Entering directory `/Users/n-yako/Documents/power_point/flutter_with_native/projects/flutter_with_native_example/android/.cxx/cmake/debug/armeabi-v7a'
+[1/2] Building CXX object CMakeFiles/my_lib.dir/native_add.cpp.o
+[2/2] Linking CXX shared library /Users/n-yako/Documents/power_point/flutter_with_native/projects/flutter_with_native_example/example/build/flutter_with_native_example/intermediates/cmake/debug/obj/armeabi-v7a/libmy_lib.so

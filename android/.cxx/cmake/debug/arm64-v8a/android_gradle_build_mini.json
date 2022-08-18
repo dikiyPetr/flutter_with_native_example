@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/n-yako/Documents/power_point/flutter_with_native/projects/flutter_with_native_example/android/CMakeLists.txt",
+    "/Users/n-yako/Library/Android/sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake",
+    "/Users/n-yako/Library/Android/sdk/ndk/21.1.6352462/build/cmake/platforms.cmake"
+  ],
+  "cleanCommands": [
+    "/Users/n-yako/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/n-yako/Documents/power_point/flutter_with_native/projects/flutter_with_native_example/android/.cxx/cmake/debug/arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "/Users/n-yako/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/n-yako/Documents/power_point/flutter_with_native/projects/flutter_with_native_example/android/.cxx/cmake/debug/arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "native_add-Debug-arm64-v8a": {
+      "artifactName": "native_add",
+      "buildCommand": "/Users/n-yako/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/n-yako/Documents/power_point/flutter_with_native/projects/flutter_with_native_example/android/.cxx/cmake/debug/arm64-v8a\" native_add",
+      "abi": "arm64-v8a",
+      "output": "/Users/n-yako/Documents/power_point/flutter_with_native/projects/flutter_with_native_example/example/build/flutter_with_native_example/intermediates/cmake/debug/obj/arm64-v8a/libnative_add.so",
+      "runtimeFiles": []
+    }
+  }
+}

@@ -1,0 +1,31 @@
+name: flutter_with_native_example
+description: A new Flutter project.
+version: 0.0.1
+homepage:
+
+environment:
+  sdk: ">=2.15.1 <3.0.0"
+  flutter: ">=2.8.1"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  pigeon:
+  uuid: ^3.0.6
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.0
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+  plugin:
+    platforms:
+      android:
+        package: com.example.flutter_with_native_example
+        pluginClass: FlutterWithNativeExamplePlugin
+      ios:
+        pluginClass: FlutterWithNativeExamplePlugin

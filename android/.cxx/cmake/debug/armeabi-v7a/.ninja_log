@@ -1,0 +1,7 @@
+# ninja log v5
+0	202	1659900997	CMakeFiles/my_lib.dir/native_add.cpp.o	d0b5c8c41acf690d
+202	285	1659900997	/Users/n-yako/Documents/power_point/flutter_with_native/projects/flutter_with_native_example/example/build/flutter_with_native_example/intermediates/cmake/debug/obj/armeabi-v7a/libmy_lib.so	bf412794ab4d7b7e
+0	216	1659901177	CMakeFiles/native_add_lib.dir/native_add.cpp.o	7e53da5d77c30242
+216	288	1659901178	/Users/n-yako/Documents/power_point/flutter_with_native/projects/flutter_with_native_example/example/build/flutter_with_native_example/intermediates/cmake/debug/obj/armeabi-v7a/libnative_add_lib.so	553c913db12a81af
+0	309	1660125357	CMakeFiles/native_add.dir/native_add.cpp.o	d9d23ed4f2ffe2a2
+309	412	1660125357	/Users/n-yako/Documents/power_point/flutter_with_native/projects/flutter_with_native_example/example/build/flutter_with_native_example/intermediates/cmake/debug/obj/armeabi-v7a/libnative_add.so	1553343100629275
